@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NavigationViewTutorial</string>
+
+    <string name="closeDrawer">Navigation View Closed</string>
+    <string name="openDrawer">Navigation View Opened</string>
+
+    <string name="inbox">Inbox</string>
+    <string name="starred">Starred</string>
+    <string name="sent_mail">Sent mail</string>
+    <string name="draft">Drafts</string>
+    <string name="all_mail">All mails</string>
+    <string name="trash">Trash</string>
+    <string name="spam">Spams</string>
+    <string name="sub_menu">Sub Menu</string>
+    <string name="user_name">Rajeev kumar</string>
+    <string name="email">tutorialwing@gmail.com</string>
+
+    <string name="right_side_navigationview">Right Side NavigationView - add code
+        to perform some actions on current content</string>
+</resources>

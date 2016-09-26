@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="title_padding">8dp</dimen>
+    <dimen name="title_text_size">28sp</dimen>
+    <dimen name="text_size">14sp</dimen>
+    <dimen name="padding_left">24dp</dimen>
+    <dimen name="image_width">76dp</dimen>
+    <dimen name="image_height">76dp</dimen>
+
+    <dimen name="header_height">190dp</dimen>
+    <dimen name="username_padding">4dp</dimen>
+    <dimen name="email_padding">8dp</dimen>
+</resources>
